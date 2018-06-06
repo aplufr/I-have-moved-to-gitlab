@@ -1,2 +1,7 @@
 # I-have-moved-to-gitlab
-All my projects are now here: https://gitlab.com/mulx/
+Because of “Microsoft is acquiring GitHub!”, all my projects are now on gitlab, here: https://gitlab.com/mulx/
+
+Thanks them.
+
+Regards,
+APLU.
